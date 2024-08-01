@@ -1,0 +1,12 @@
+RNN ---> Recurrent Neural Network
+Natural Language Processing (NLP)
+It is used to think, generate and  response natural language processing.
+
+NLP have two parts :-
+1. NLU ---> Natural Language Understanding
+    It will understand the input (natural languages).
+
+2. NLG ---> Natural Language Generation
+    It will generate natural languages.
+
+GPT ---> Generative Pre-trained Transformers
