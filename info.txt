@@ -1,0 +1,32 @@
+RNN ---> Recurrent Neural Network.
+RNN works on Natural Language Processing (NLP).
+It is used to think, generate and response natural language processing.
+
+NLP have two parts :-
+1. NLU ---> Natural Language Understanding
+   It will understand the input (natural languages).
+
+2. NLG ---> Natural Language Generation
+   It will generate natural languages.
+
+GPT ---> Generative Pre-trained Transformers.
+
+RNN is used to deal with sequential data.
+Sequential data ---> Text data and Time series data.
+Time series data ---> prediction which is done on the basis of time period.
+Tabular / Structural data are not sequential data.
+
+RNN Processing :-
+1. When input is passed, it is multiplied with weight and previous output 
+   because current input is depends on previous output.
+2. It is passed through the neural network.
+3. Input and output are english words.
+4. All output are passes through new neural.
+5. Loss reduced.
+
+z1 = I.W + bias       sigma(Z1)
+z2 = I.W.O1 + bias    sigma(Z2)
+z3 = I.W.O2 + bias    sigma(Z3)
+activation function ---> tanh
+    It returns(-1 to +1).
+
