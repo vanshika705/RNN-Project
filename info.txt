@@ -30,3 +30,6 @@ z3 = I.W.O2 + bias    sigma(Z3)
 activation function ---> tanh
     It returns(-1 to +1).
 
+Stamming ---> It is used for text cleaning. It gives meaningful basewords. 
+Base word ---> word which is comman in multiple words.
+
